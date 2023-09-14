@@ -1,0 +1,5771 @@
+Software Engineering
+CS 295 (Win)
+Software Techniques for Emerging Hardware Platforms
+CS 349H, EE 292Y (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+2021-22 Courses
+Software Engineering
+Teaching information not found
+Mathematical Foundations of Computing
+CS 103 (Spr)
+Parallel Computing Research Project
+CS 315B (Aut)
+Programming Languages
+CS 242 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Counting and Sampling
+CS 263 (Aut)
+Design and Analysis of Algorithms
+CS 161 (Win)
+Independent Studies (3)
+
+
+
+Prior Year Courses
+Teaching information not found
+Teaching information not found
+Computer Science Research
+CS 197 (Aut)
+Human-Computer Interaction Seminar
+CS 547 (Aut, Win, Spr)
+Human-Computer Interaction: Foundations and Frontiers
+CS 347 (Win)
+Social Computing
+CS 278, SOC 174, SOC 274 (Spr)
+Independent Studies (18)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Computer Vision: From 3D Reconstruction to Recognition
+CS 231A (Win)
+Principles of Robot Autonomy I
+AA 174A, AA 274A, CS 237A, EE 160A, EE 260A (Aut)
+Principles of Robot Autonomy II
+AA 174B, AA 274B, CS 237B, EE 260B (Win)
+Independent Studies (13)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Computer and Network Security
+CS 155 (Spr)
+Cryptocurrencies and blockchain technologies
+CS 251 (Aut)
+Introduction to Cryptography
+CS 255 (Win)
+Independent Studies (22)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Quantum Complexity Theory
+CS 359D (Spr)
+Quantum Computing
+CS 259Q (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Advanced Survey of Reinforcement Learning
+CS 332 (Aut)
+Counterfactuals: The Science of What Ifs?
+CS 31N (Spr)
+Reinforcement Learning
+CS 234 (Win)
+Independent Studies (11)
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Teaching information not found
+Teaching information not found
+Computer and Network Security
+CS 155 (Spr)
+The Modern Internet
+CS 249I (Win)
+Topics in Computer and Network Security
+CS 356 (Aut)
+Independent Studies (12)
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Advanced Operating System Lab: Accelerated (II)
+CS 340LX (Aut)
+Advanced Systems Laboratory, Accelerated
+CS 240LX (Spr)
+Advanced Topics in Operating Systems
+CS 240 (Spr)
+Operating systems design and implementation
+CS 140E (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Probabilistic Graphical Models: Principles and Techniques
+CS 228 (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS 248A (Win)
+Parallel Computing
+CS 149 (Aut)
+Visual Computing Systems
+CS 348K (Spr)
+Independent Studies (11)
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS 205L (Win)
+Introduction to Computer Graphics and Imaging
+CS 148 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Deep Multi-task and Meta Learning
+CS 330 (Aut)
+Deep Reinforcement Learning
+CS 224R (Spr)
+Independent Studies (17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Introduction to Time Series Analysis
+STATS 207, STATS 307 (Aut)
+Modern Applied Statistics: Learning II
+STATS 315B (Spr)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Computational Logic
+CS 157 (Aut)
+General Game Playing
+CS 227B (Spr)
+Logic Programming
+CS 151 (Spr)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Minds and Machines
+CS 24, LINGUIST 35, PHIL 99, PSYCH 35, SYMSYS 1, SYMSYS 200 (Win)
+Practicum in Teaching SymSys 1
+SYMSYS 197 (Win)
+Probabilistic models of cognition: Reasoning and Learning
+CS 428A, PSYCH 220A (Spr)
+Psychology of the Climate Crisis
+PSYCH 278 (Spr)
+Independent Studies (17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Ethics of Artificial Intelligence
+CS 281 (Spr)
+Machine Learning
+CS 229, STATS 229 (Aut)
+Independent Studies (6)
+
+
+
+
+
+
+Prior Year Courses
+Teaching information not found
+Advances in Foundation Models
+CS 324 (Win)
+Machine Learning Under Distributional Shifts
+CS 329D (Spr)
+Independent Studies (6)
+
+
+
+
+
+
+Prior Year Courses
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Teaching information not found
+Advanced Robotic Manipulation
+CS 327A (Spr)
+Experimental Robotics
+CS 225A (Spr)
+Introduction to Robotics
+CS 223A, ME 320 (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Compilers
+CS 143 (Spr)
+Domain-Specific Programming Models and Compilers
+CS 343D (Win)
+Independent Studies (8)
+
+
+
+
+
+
+
+
+Prior Year Courses
+Artificial Intelligence: Principles and Techniques
+CS 221 (Spr)
+Independent Studies (14)
+An Intro to Making: What is EE
+ENGR 40M (Spr)
+Cloud Computing Technology
+CS 349D (Spr)
+Colloquium on Computer Systems
+EE 380 (Win, Spr)
+Digital Systems Architecture
+EE 180 (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Teaching information not found
+Conversational Virtual Assistants with Deep Learning
+CS 224V (Aut)
+Program Analysis and Optimizations
+CS 243 (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Teaching information not found
+Machine Learning with Graphs
+CS 224W (Win)
+Mining Massive Data Sets
+CS 246 (Spr)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Independent Studies (20)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Teaching information not found
+Advances in Foundation Models
+CS 324 (Win)
+Artificial Intelligence: Principles and Techniques
+CS 221 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/sara-achour
+2022-23 Courses:
+Software Engineering
+CS 295 (Win)
+Software Techniques for Emerging Hardware Platforms
+CS 349H, EE 292Y (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/alex-aiken
+2022-23 Courses:
+Mathematical Foundations of Computing
+CS 103 (Spr)
+Parallel Computing Research Project
+CS 315B (Aut)
+Programming Languages
+CS 242 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/nima-anari
+2022-23 Courses:
+Counting and Sampling
+CS 263 (Aut)
+Design and Analysis of Algorithms
+CS 161 (Win)
+Independent Studies (3)
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/michael-bernstein
+2022-23 Courses:
+Computer Science Research
+CS 197 (Aut)
+Human-Computer Interaction Seminar
+CS 547 (Aut, Win, Spr)
+Human-Computer Interaction: Foundations and Frontiers
+CS 347 (Win)
+Social Computing
+CS 278, SOC 174, SOC 274 (Spr)
+Independent Studies (18)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/jeannette-bohg
+2022-23 Courses:
+Computer Vision: From 3D Reconstruction to Recognition
+CS 231A (Win)
+Principles of Robot Autonomy I
+AA 174A, AA 274A, CS 237A, EE 160A, EE 260A (Aut)
+Principles of Robot Autonomy II
+AA 174B, AA 274B, CS 237B, EE 260B (Win)
+Independent Studies (13)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/dan-boneh
+2022-23 Courses:
+Computer and Network Security
+CS 155 (Spr)
+Cryptocurrencies and blockchain technologies
+CS 251 (Aut)
+Introduction to Cryptography
+CS 255 (Win)
+Independent Studies (22)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/adam-bouland
+2022-23 Courses:
+Quantum Complexity Theory
+CS 359D (Spr)
+Quantum Computing
+CS 259Q (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/emma-brunskill
+2022-23 Courses:
+Advanced Survey of Reinforcement Learning
+CS 332 (Aut)
+Counterfactuals: The Science of What Ifs?
+CS 31N (Spr)
+Reinforcement Learning
+CS 234 (Win)
+Independent Studies (11)
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/zakir-durumeric
+2022-23 Courses:
+Computer and Network Security
+CS 155 (Spr)
+The Modern Internet
+CS 249I (Win)
+Topics in Computer and Network Security
+CS 356 (Aut)
+Independent Studies (12)
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/dawson-engler
+2022-23 Courses:
+Advanced Operating System Lab: Accelerated (II)
+CS 340LX (Aut)
+Advanced Systems Laboratory, Accelerated
+CS 240LX (Spr)
+Advanced Topics in Operating Systems
+CS 240 (Spr)
+Operating systems design and implementation
+CS 140E (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/stefano-ermon
+2022-23 Courses:
+Probabilistic Graphical Models: Principles and Techniques
+CS 228 (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/kayvon-fatahalian
+2022-23 Courses:
+Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS 248A (Win)
+Parallel Computing
+CS 149 (Aut)
+Visual Computing Systems
+CS 348K (Spr)
+Independent Studies (11)
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/ron-fedkiw
+2022-23 Courses:
+Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS 205L (Win)
+Introduction to Computer Graphics and Imaging
+CS 148 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/chelsea-finn
+2022-23 Courses:
+Deep Multi-task and Meta Learning
+CS 330 (Aut)
+Deep Reinforcement Learning
+CS 224R (Spr)
+Independent Studies (17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/emily-fox
+2022-23 Courses:
+Introduction to Time Series Analysis
+STATS 207, STATS 307 (Aut)
+Modern Applied Statistics: Learning II
+STATS 315B (Spr)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/michael-genesereth
+2022-23 Courses:
+Computational Logic
+CS 157 (Aut)
+General Game Playing
+CS 227B (Spr)
+Logic Programming
+CS 151 (Spr)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/noah-goodman
+2022-23 Courses:
+Minds and Machines
+CS 24, LINGUIST 35, PHIL 99, PSYCH 35, SYMSYS 1, SYMSYS 200 (Win)
+Practicum in Teaching SymSys 1
+SYMSYS 197 (Win)
+Probabilistic models of cognition: Reasoning and Learning
+CS 428A, PSYCH 220A (Spr)
+Psychology of the Climate Crisis
+PSYCH 278 (Spr)
+Independent Studies (17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/carlos-guestrin
+2022-23 Courses:
+Ethics of Artificial Intelligence
+CS 281 (Spr)
+Machine Learning
+CS 229, STATS 229 (Aut)
+Independent Studies (6)
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/tatsunori-hashimoto
+2022-23 Courses:
+Advances in Foundation Models
+CS 324 (Win)
+Machine Learning Under Distributional Shifts
+CS 329D (Spr)
+Independent Studies (6)
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/john-hennessy
+2022-23 Courses:
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/mark-horowitz
+2022-23 Courses:
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/oussama-khatib
+2022-23 Courses:
+Advanced Robotic Manipulation
+CS 327A (Spr)
+Experimental Robotics
+CS 225A (Spr)
+Introduction to Robotics
+CS 223A, ME 320 (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/fredrik-kjoelstad
+2022-23 Courses:
+Compilers
+CS 143 (Spr)
+Domain-Specific Programming Models and Compilers
+CS 343D (Win)
+Independent Studies (8)
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/sanmi-koyejo
+2022-23 Courses:
+Artificial Intelligence: Principles and Techniques
+CS 221 (Spr)
+Independent Studies (14)
+
+URL: https://www.cs.stanford.edu/people/christos-kozyrakis
+2022-23 Courses:
+An Intro to Making: What is EE
+ENGR 40M (Spr)
+Cloud Computing Technology
+CS 349D (Spr)
+Colloquium on Computer Systems
+EE 380 (Win, Spr)
+Digital Systems Architecture
+EE 180 (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/monica-lam
+2022-23 Courses:
+Conversational Virtual Assistants with Deep Learning
+CS 224V (Aut)
+Program Analysis and Optimizations
+CS 243 (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/jure-leskovec
+2022-23 Courses:
+Machine Learning with Graphs
+CS 224W (Win)
+Mining Massive Data Sets
+CS 246 (Spr)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/philip-levis
+2022-23 Courses:
+Independent Studies (20)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/percy-liang
+2022-23 Courses:
+Advances in Foundation Models
+CS 324 (Win)
+Artificial Intelligence: Principles and Techniques
+CS 221 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/sara-achour
+2022-23 Courses:
+Software Engineering
+CS 295 (Win)
+Software Techniques for Emerging Hardware Platforms
+CS 349H, EE 292Y (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/alex-aiken
+2022-23 Courses:
+Mathematical Foundations of Computing
+CS 103 (Spr)
+Parallel Computing Research Project
+CS 315B (Aut)
+Programming Languages
+CS 242 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/nima-anari
+2022-23 Courses:
+Counting and Sampling
+CS 263 (Aut)
+Design and Analysis of Algorithms
+CS 161 (Win)
+Independent Studies (3)
+
+
+
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/michael-bernstein
+2022-23 Courses:
+Computer Science Research
+CS 197 (Aut)
+Human-Computer Interaction Seminar
+CS 547 (Aut, Win, Spr)
+Human-Computer Interaction: Foundations and Frontiers
+CS 347 (Win)
+Social Computing
+CS 278, SOC 174, SOC 274 (Spr)
+Independent Studies (18)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/jeannette-bohg
+2022-23 Courses:
+Computer Vision: From 3D Reconstruction to Recognition
+CS 231A (Win)
+Principles of Robot Autonomy I
+AA 174A, AA 274A, CS 237A, EE 160A, EE 260A (Aut)
+Principles of Robot Autonomy II
+AA 174B, AA 274B, CS 237B, EE 260B (Win)
+Independent Studies (13)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/dan-boneh
+2022-23 Courses:
+Computer and Network Security
+CS 155 (Spr)
+Cryptocurrencies and blockchain technologies
+CS 251 (Aut)
+Introduction to Cryptography
+CS 255 (Win)
+Independent Studies (22)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/adam-bouland
+2022-23 Courses:
+Quantum Complexity Theory
+CS 359D (Spr)
+Quantum Computing
+CS 259Q (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/emma-brunskill
+2022-23 Courses:
+Advanced Survey of Reinforcement Learning
+CS 332 (Aut)
+Counterfactuals: The Science of What Ifs?
+CS 31N (Spr)
+Reinforcement Learning
+CS 234 (Win)
+Independent Studies (11)
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/zakir-durumeric
+2022-23 Courses:
+Computer and Network Security
+CS 155 (Spr)
+The Modern Internet
+CS 249I (Win)
+Topics in Computer and Network Security
+CS 356 (Aut)
+Independent Studies (12)
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/dawson-engler
+2022-23 Courses:
+Advanced Operating System Lab: Accelerated (II)
+CS 340LX (Aut)
+Advanced Systems Laboratory, Accelerated
+CS 240LX (Spr)
+Advanced Topics in Operating Systems
+CS 240 (Spr)
+Operating systems design and implementation
+CS 140E (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/stefano-ermon
+2022-23 Courses:
+Probabilistic Graphical Models: Principles and Techniques
+CS 228 (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/kayvon-fatahalian
+2022-23 Courses:
+Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS 248A (Win)
+Parallel Computing
+CS 149 (Aut)
+Visual Computing Systems
+CS 348K (Spr)
+Independent Studies (11)
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/ron-fedkiw
+2022-23 Courses:
+Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS 205L (Win)
+Introduction to Computer Graphics and Imaging
+CS 148 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/chelsea-finn
+2022-23 Courses:
+Deep Multi-task and Meta Learning
+CS 330 (Aut)
+Deep Reinforcement Learning
+CS 224R (Spr)
+Independent Studies (17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/emily-fox
+2022-23 Courses:
+Introduction to Time Series Analysis
+STATS 207, STATS 307 (Aut)
+Modern Applied Statistics: Learning II
+STATS 315B (Spr)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/michael-genesereth
+2022-23 Courses:
+Computational Logic
+CS 157 (Aut)
+General Game Playing
+CS 227B (Spr)
+Logic Programming
+CS 151 (Spr)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/noah-goodman
+2022-23 Courses:
+Minds and Machines
+CS 24, LINGUIST 35, PHIL 99, PSYCH 35, SYMSYS 1, SYMSYS 200 (Win)
+Practicum in Teaching SymSys 1
+SYMSYS 197 (Win)
+Probabilistic models of cognition: Reasoning and Learning
+CS 428A, PSYCH 220A (Spr)
+Psychology of the Climate Crisis
+PSYCH 278 (Spr)
+Independent Studies (17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/carlos-guestrin
+2022-23 Courses:
+Ethics of Artificial Intelligence
+CS 281 (Spr)
+Machine Learning
+CS 229, STATS 229 (Aut)
+Independent Studies (6)
+
+
+
+
+
+
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/tatsunori-hashimoto
+2022-23 Courses:
+Advances in Foundation Models
+CS 324 (Win)
+Machine Learning Under Distributional Shifts
+CS 329D (Spr)
+Independent Studies (6)
+
+
+
+
+
+
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/john-hennessy
+2022-23 Courses:
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/mark-horowitz
+2022-23 Courses:
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/oussama-khatib
+2022-23 Courses:
+Advanced Robotic Manipulation
+CS 327A (Spr)
+Experimental Robotics
+CS 225A (Spr)
+Introduction to Robotics
+CS 223A, ME 320 (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/fredrik-kjoelstad
+2022-23 Courses:
+Compilers
+CS 143 (Spr)
+Domain-Specific Programming Models and Compilers
+CS 343D (Win)
+Independent Studies (8)
+
+
+
+
+
+
+
+
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/sanmi-koyejo
+2022-23 Courses:
+Artificial Intelligence: Principles and Techniques
+CS 221 (Spr)
+Independent Studies (14)
+URL: https://www.cs.stanford.edu/people/christos-kozyrakis
+2022-23 Courses:
+An Intro to Making: What is EE
+ENGR 40M (Spr)
+Cloud Computing Technology
+CS 349D (Spr)
+Colloquium on Computer Systems
+EE 380 (Win, Spr)
+Digital Systems Architecture
+EE 180 (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/alex-aiken
+2022-23 Courses:
+Mathematical Foundations of Computing
+CS 103 (Spr)
+Parallel Computing Research Project
+CS 315B (Aut)
+Programming Languages
+CS 242 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/michael-bernstein
+2022-23 Courses:
+Computer Science Research
+CS 197 (Aut)
+Human-Computer Interaction Seminar
+CS 547 (Aut, Win, Spr)
+Human-Computer Interaction: Foundations and Frontiers
+CS 347 (Win)
+Social Computing
+CS 278, SOC 174, SOC 274 (Spr)
+Independent Studies (18)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/jeannette-bohg
+2022-23 Courses:
+Computer Vision: From 3D Reconstruction to Recognition
+CS 231A (Win)
+Principles of Robot Autonomy I
+AA 174A, AA 274A, CS 237A, EE 160A, EE 260A (Aut)
+Principles of Robot Autonomy II
+AA 174B, AA 274B, CS 237B, EE 260B (Win)
+Independent Studies (13)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/dan-boneh
+2022-23 Courses:
+Computer and Network Security
+CS 155 (Spr)
+Cryptocurrencies and blockchain technologies
+CS 251 (Aut)
+Introduction to Cryptography
+CS 255 (Win)
+Independent Studies (22)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/emma-brunskill
+2022-23 Courses:
+Advanced Survey of Reinforcement Learning
+CS 332 (Aut)
+Counterfactuals: The Science of What Ifs?
+CS 31N (Spr)
+Reinforcement Learning
+CS 234 (Win)
+Independent Studies (11)
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/zakir-durumeric
+2022-23 Courses:
+Computer and Network Security
+CS 155 (Spr)
+The Modern Internet
+CS 249I (Win)
+Topics in Computer and Network Security
+CS 356 (Aut)
+Independent Studies (12)
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/dawson-engler
+2022-23 Courses:
+Advanced Operating System Lab: Accelerated (II)
+CS 340LX (Aut)
+Advanced Systems Laboratory, Accelerated
+CS 240LX (Spr)
+Advanced Topics in Operating Systems
+CS 240 (Spr)
+Operating systems design and implementation
+CS 140E (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/kayvon-fatahalian
+2022-23 Courses:
+Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS 248A (Win)
+Parallel Computing
+CS 149 (Aut)
+Visual Computing Systems
+CS 348K (Spr)
+Independent Studies (11)
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/michael-genesereth
+2022-23 Courses:
+Computational Logic
+CS 157 (Aut)
+General Game Playing
+CS 227B (Spr)
+Logic Programming
+CS 151 (Spr)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/noah-goodman
+2022-23 Courses:
+Minds and Machines
+CS 24, LINGUIST 35, PHIL 99, PSYCH 35, SYMSYS 1, SYMSYS 200 (Win)
+Practicum in Teaching SymSys 1
+SYMSYS 197 (Win)
+Probabilistic models of cognition: Reasoning and Learning
+CS 428A, PSYCH 220A (Spr)
+Psychology of the Climate Crisis
+PSYCH 278 (Spr)
+Independent Studies (17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/oussama-khatib
+2022-23 Courses:
+Advanced Robotic Manipulation
+CS 327A (Spr)
+Experimental Robotics
+CS 225A (Spr)
+Introduction to Robotics
+CS 223A, ME 320 (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/christos-kozyrakis
+2022-23 Courses:
+An Intro to Making: What is EE
+ENGR 40M (Spr)
+Cloud Computing Technology
+CS 349D (Spr)
+Colloquium on Computer Systems
+EE 380 (Win, Spr)
+Digital Systems Architecture
+EE 180 (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+Prior Year Courses:
+Prior Year Courses
+URL: https://www.cs.stanford.edu/people/maneesh-agrawala
+2022-23 Courses:
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/sara-achour
+2022-23 Courses:
+Software Engineering
+CS 295 (Win)
+Software Techniques for Emerging Hardware Platforms
+CS 349H, EE 292Y (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/alex-aiken
+2022-23 Courses:
+Mathematical Foundations of Computing
+CS 103 (Spr)
+Parallel Computing Research Project
+CS 315B (Aut)
+Programming Languages
+CS 242 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/nima-anari
+2022-23 Courses:
+Counting and Sampling
+CS 263 (Aut)
+Design and Analysis of Algorithms
+CS 161 (Win)
+Independent Studies (3)
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/michael-bernstein
+2022-23 Courses:
+Computer Science Research
+CS 197 (Aut)
+Human-Computer Interaction Seminar
+CS 547 (Aut, Win, Spr)
+Human-Computer Interaction: Foundations and Frontiers
+CS 347 (Win)
+Social Computing
+CS 278, SOC 174, SOC 274 (Spr)
+Independent Studies (18)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/jeannette-bohg
+2022-23 Courses:
+Computer Vision: From 3D Reconstruction to Recognition
+CS 231A (Win)
+Principles of Robot Autonomy I
+AA 174A, AA 274A, CS 237A, EE 160A, EE 260A (Aut)
+Principles of Robot Autonomy II
+AA 174B, AA 274B, CS 237B, EE 260B (Win)
+Independent Studies (13)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/dan-boneh
+2022-23 Courses:
+Computer and Network Security
+CS 155 (Spr)
+Cryptocurrencies and blockchain technologies
+CS 251 (Aut)
+Introduction to Cryptography
+CS 255 (Win)
+Independent Studies (22)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/adam-bouland
+2022-23 Courses:
+Quantum Complexity Theory
+CS 359D (Spr)
+Quantum Computing
+CS 259Q (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/emma-brunskill
+2022-23 Courses:
+Advanced Survey of Reinforcement Learning
+CS 332 (Aut)
+Counterfactuals: The Science of What Ifs?
+CS 31N (Spr)
+Reinforcement Learning
+CS 234 (Win)
+Independent Studies (11)
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/zakir-durumeric
+2022-23 Courses:
+Computer and Network Security
+CS 155 (Spr)
+The Modern Internet
+CS 249I (Win)
+Topics in Computer and Network Security
+CS 356 (Aut)
+Independent Studies (12)
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/dawson-engler
+2022-23 Courses:
+Advanced Operating System Lab: Accelerated (II)
+CS 340LX (Aut)
+Advanced Systems Laboratory, Accelerated
+CS 240LX (Spr)
+Advanced Topics in Operating Systems
+CS 240 (Spr)
+Operating systems design and implementation
+CS 140E (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/stefano-ermon
+2022-23 Courses:
+Probabilistic Graphical Models: Principles and Techniques
+CS 228 (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/kayvon-fatahalian
+2022-23 Courses:
+Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS 248A (Win)
+Parallel Computing
+CS 149 (Aut)
+Visual Computing Systems
+CS 348K (Spr)
+Independent Studies (11)
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/ron-fedkiw
+2022-23 Courses:
+Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS 205L (Win)
+Introduction to Computer Graphics and Imaging
+CS 148 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/chelsea-finn
+2022-23 Courses:
+Deep Multi-task and Meta Learning
+CS 330 (Aut)
+Deep Reinforcement Learning
+CS 224R (Spr)
+Independent Studies (17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/emily-fox
+2022-23 Courses:
+Introduction to Time Series Analysis
+STATS 207, STATS 307 (Aut)
+Modern Applied Statistics: Learning II
+STATS 315B (Spr)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/michael-genesereth
+2022-23 Courses:
+Computational Logic
+CS 157 (Aut)
+General Game Playing
+CS 227B (Spr)
+Logic Programming
+CS 151 (Spr)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/noah-goodman
+2022-23 Courses:
+Minds and Machines
+CS 24, LINGUIST 35, PHIL 99, PSYCH 35, SYMSYS 1, SYMSYS 200 (Win)
+Practicum in Teaching SymSys 1
+SYMSYS 197 (Win)
+Probabilistic models of cognition: Reasoning and Learning
+CS 428A, PSYCH 220A (Spr)
+Psychology of the Climate Crisis
+PSYCH 278 (Spr)
+Independent Studies (17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/carlos-guestrin
+2022-23 Courses:
+Ethics of Artificial Intelligence
+CS 281 (Spr)
+Machine Learning
+CS 229, STATS 229 (Aut)
+Independent Studies (6)
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/tatsunori-hashimoto
+2022-23 Courses:
+Advances in Foundation Models
+CS 324 (Win)
+Machine Learning Under Distributional Shifts
+CS 329D (Spr)
+Independent Studies (6)
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/john-hennessy
+2022-23 Courses:
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/mark-horowitz
+2022-23 Courses:
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/oussama-khatib
+2022-23 Courses:
+Advanced Robotic Manipulation
+CS 327A (Spr)
+Experimental Robotics
+CS 225A (Spr)
+Introduction to Robotics
+CS 223A, ME 320 (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/fredrik-kjoelstad
+2022-23 Courses:
+Compilers
+CS 143 (Spr)
+Domain-Specific Programming Models and Compilers
+CS 343D (Win)
+Independent Studies (8)
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/sanmi-koyejo
+2022-23 Courses:
+Artificial Intelligence: Principles and Techniques
+CS 221 (Spr)
+Independent Studies (14)
+
+URL: https://www.cs.stanford.edu/people/christos-kozyrakis
+2022-23 Courses:
+An Intro to Making: What is EE
+ENGR 40M (Spr)
+Cloud Computing Technology
+CS 349D (Spr)
+Colloquium on Computer Systems
+EE 380 (Win, Spr)
+Digital Systems Architecture
+EE 180 (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/monica-lam
+2022-23 Courses:
+Conversational Virtual Assistants with Deep Learning
+CS 224V (Aut)
+Program Analysis and Optimizations
+CS 243 (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/jure-leskovec
+2022-23 Courses:
+Machine Learning with Graphs
+CS 224W (Win)
+Mining Massive Data Sets
+CS 246 (Spr)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/philip-levis
+2022-23 Courses:
+Independent Studies (20)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/percy-liang
+2022-23 Courses:
+Advances in Foundation Models
+CS 324 (Win)
+Artificial Intelligence: Principles and Techniques
+CS 221 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/sara-achour
+2022-23 Courses:
+Software Engineering
+CS 295 (Win)
+Software Techniques for Emerging Hardware Platforms
+CS 349H, EE 292Y (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Software Engineering
+CS 295 (Win)
+Software Techniques for Emerging Hardware Platforms
+CS 349H, EE 292Y (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/alex-aiken
+2022-23 Courses:
+Mathematical Foundations of Computing
+CS 103 (Spr)
+Parallel Computing Research Project
+CS 315B (Aut)
+Programming Languages
+CS 242 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Mathematical Foundations of Computing
+CS 103 (Spr)
+Parallel Computing Research Project
+CS 315B (Aut)
+Programming Languages
+CS 242 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/nima-anari
+2022-23 Courses:
+Counting and Sampling
+CS 263 (Aut)
+Design and Analysis of Algorithms
+CS 161 (Win)
+Independent Studies (3)
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Counting and Sampling
+CS 263 (Aut)
+Design and Analysis of Algorithms
+CS 161 (Win)
+Independent Studies (3)
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/michael-bernstein
+2022-23 Courses:
+Computer Science Research
+CS 197 (Aut)
+Human-Computer Interaction Seminar
+CS 547 (Aut, Win, Spr)
+Human-Computer Interaction: Foundations and Frontiers
+CS 347 (Win)
+Social Computing
+CS 278, SOC 174, SOC 274 (Spr)
+Independent Studies (18)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Computer Science Research
+CS 197 (Aut)
+Human-Computer Interaction Seminar
+CS 547 (Aut, Win, Spr)
+Human-Computer Interaction: Foundations and Frontiers
+CS 347 (Win)
+Social Computing
+CS 278, SOC 174, SOC 274 (Spr)
+Independent Studies (18)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/jeannette-bohg
+2022-23 Courses:
+Computer Vision: From 3D Reconstruction to Recognition
+CS 231A (Win)
+Principles of Robot Autonomy I
+AA 174A, AA 274A, CS 237A, EE 160A, EE 260A (Aut)
+Principles of Robot Autonomy II
+AA 174B, AA 274B, CS 237B, EE 260B (Win)
+Independent Studies (13)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Computer Vision: From 3D Reconstruction to Recognition
+CS 231A (Win)
+Principles of Robot Autonomy I
+AA 174A, AA 274A, CS 237A, EE 160A, EE 260A (Aut)
+Principles of Robot Autonomy II
+AA 174B, AA 274B, CS 237B, EE 260B (Win)
+Independent Studies (13)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/dan-boneh
+2022-23 Courses:
+Computer and Network Security
+CS 155 (Spr)
+Cryptocurrencies and blockchain technologies
+CS 251 (Aut)
+Introduction to Cryptography
+CS 255 (Win)
+Independent Studies (22)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Computer and Network Security
+CS 155 (Spr)
+Cryptocurrencies and blockchain technologies
+CS 251 (Aut)
+Introduction to Cryptography
+CS 255 (Win)
+Independent Studies (22)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/adam-bouland
+2022-23 Courses:
+Quantum Complexity Theory
+CS 359D (Spr)
+Quantum Computing
+CS 259Q (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Quantum Complexity Theory
+CS 359D (Spr)
+Quantum Computing
+CS 259Q (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/emma-brunskill
+2022-23 Courses:
+Advanced Survey of Reinforcement Learning
+CS 332 (Aut)
+Counterfactuals: The Science of What Ifs?
+CS 31N (Spr)
+Reinforcement Learning
+CS 234 (Win)
+Independent Studies (11)
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Advanced Survey of Reinforcement Learning
+CS 332 (Aut)
+Counterfactuals: The Science of What Ifs?
+CS 31N (Spr)
+Reinforcement Learning
+CS 234 (Win)
+Independent Studies (11)
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/zakir-durumeric
+2022-23 Courses:
+Computer and Network Security
+CS 155 (Spr)
+The Modern Internet
+CS 249I (Win)
+Topics in Computer and Network Security
+CS 356 (Aut)
+Independent Studies (12)
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Computer and Network Security
+CS 155 (Spr)
+The Modern Internet
+CS 249I (Win)
+Topics in Computer and Network Security
+CS 356 (Aut)
+Independent Studies (12)
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/dawson-engler
+2022-23 Courses:
+Advanced Operating System Lab: Accelerated (II)
+CS 340LX (Aut)
+Advanced Systems Laboratory, Accelerated
+CS 240LX (Spr)
+Advanced Topics in Operating Systems
+CS 240 (Spr)
+Operating systems design and implementation
+CS 140E (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Advanced Operating System Lab: Accelerated (II)
+CS 340LX (Aut)
+Advanced Systems Laboratory, Accelerated
+CS 240LX (Spr)
+Advanced Topics in Operating Systems
+CS 240 (Spr)
+Operating systems design and implementation
+CS 140E (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/stefano-ermon
+2022-23 Courses:
+Probabilistic Graphical Models: Principles and Techniques
+CS 228 (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Probabilistic Graphical Models: Principles and Techniques
+CS 228 (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/kayvon-fatahalian
+2022-23 Courses:
+Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS 248A (Win)
+Parallel Computing
+CS 149 (Aut)
+Visual Computing Systems
+CS 348K (Spr)
+Independent Studies (11)
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS 248A (Win)
+Parallel Computing
+CS 149 (Aut)
+Visual Computing Systems
+CS 348K (Spr)
+Independent Studies (11)
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/ron-fedkiw
+2022-23 Courses:
+Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS 205L (Win)
+Introduction to Computer Graphics and Imaging
+CS 148 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS 205L (Win)
+Introduction to Computer Graphics and Imaging
+CS 148 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/chelsea-finn
+2022-23 Courses:
+Deep Multi-task and Meta Learning
+CS 330 (Aut)
+Deep Reinforcement Learning
+CS 224R (Spr)
+Independent Studies (17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Deep Multi-task and Meta Learning
+CS 330 (Aut)
+Deep Reinforcement Learning
+CS 224R (Spr)
+Independent Studies (17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/emily-fox
+2022-23 Courses:
+Introduction to Time Series Analysis
+STATS 207, STATS 307 (Aut)
+Modern Applied Statistics: Learning II
+STATS 315B (Spr)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Introduction to Time Series Analysis
+STATS 207, STATS 307 (Aut)
+Modern Applied Statistics: Learning II
+STATS 315B (Spr)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/michael-genesereth
+2022-23 Courses:
+Computational Logic
+CS 157 (Aut)
+General Game Playing
+CS 227B (Spr)
+Logic Programming
+CS 151 (Spr)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Computational Logic
+CS 157 (Aut)
+General Game Playing
+CS 227B (Spr)
+Logic Programming
+CS 151 (Spr)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/noah-goodman
+2022-23 Courses:
+Minds and Machines
+CS 24, LINGUIST 35, PHIL 99, PSYCH 35, SYMSYS 1, SYMSYS 200 (Win)
+Practicum in Teaching SymSys 1
+SYMSYS 197 (Win)
+Probabilistic models of cognition: Reasoning and Learning
+CS 428A, PSYCH 220A (Spr)
+Psychology of the Climate Crisis
+PSYCH 278 (Spr)
+Independent Studies (17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Minds and Machines
+CS 24, LINGUIST 35, PHIL 99, PSYCH 35, SYMSYS 1, SYMSYS 200 (Win)
+Practicum in Teaching SymSys 1
+SYMSYS 197 (Win)
+Probabilistic models of cognition: Reasoning and Learning
+CS 428A, PSYCH 220A (Spr)
+Psychology of the Climate Crisis
+PSYCH 278 (Spr)
+Independent Studies (17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/carlos-guestrin
+2022-23 Courses:
+Ethics of Artificial Intelligence
+CS 281 (Spr)
+Machine Learning
+CS 229, STATS 229 (Aut)
+Independent Studies (6)
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Ethics of Artificial Intelligence
+CS 281 (Spr)
+Machine Learning
+CS 229, STATS 229 (Aut)
+Independent Studies (6)
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/tatsunori-hashimoto
+2022-23 Courses:
+Advances in Foundation Models
+CS 324 (Win)
+Machine Learning Under Distributional Shifts
+CS 329D (Spr)
+Independent Studies (6)
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Advances in Foundation Models
+CS 324 (Win)
+Machine Learning Under Distributional Shifts
+CS 329D (Spr)
+Independent Studies (6)
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/john-hennessy
+2022-23 Courses:
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/mark-horowitz
+2022-23 Courses:
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/oussama-khatib
+2022-23 Courses:
+Advanced Robotic Manipulation
+CS 327A (Spr)
+Experimental Robotics
+CS 225A (Spr)
+Introduction to Robotics
+CS 223A, ME 320 (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Advanced Robotic Manipulation
+CS 327A (Spr)
+Experimental Robotics
+CS 225A (Spr)
+Introduction to Robotics
+CS 223A, ME 320 (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/fredrik-kjoelstad
+2022-23 Courses:
+Compilers
+CS 143 (Spr)
+Domain-Specific Programming Models and Compilers
+CS 343D (Win)
+Independent Studies (8)
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Compilers
+CS 143 (Spr)
+Domain-Specific Programming Models and Compilers
+CS 343D (Win)
+Independent Studies (8)
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/sanmi-koyejo
+2022-23 Courses:
+Artificial Intelligence: Principles and Techniques
+CS 221 (Spr)
+Independent Studies (14)
+
+2022-23 Courses Content:
+Artificial Intelligence: Principles and Techniques
+CS 221 (Spr)
+Independent Studies (14)
+
+URL: https://www.cs.stanford.edu/people/christos-kozyrakis
+2022-23 Courses:
+An Intro to Making: What is EE
+ENGR 40M (Spr)
+Cloud Computing Technology
+CS 349D (Spr)
+Colloquium on Computer Systems
+EE 380 (Win, Spr)
+Digital Systems Architecture
+EE 180 (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+An Intro to Making: What is EE
+ENGR 40M (Spr)
+Cloud Computing Technology
+CS 349D (Spr)
+Colloquium on Computer Systems
+EE 380 (Win, Spr)
+Digital Systems Architecture
+EE 180 (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/monica-lam
+2022-23 Courses:
+Conversational Virtual Assistants with Deep Learning
+CS 224V (Aut)
+Program Analysis and Optimizations
+CS 243 (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Conversational Virtual Assistants with Deep Learning
+CS 224V (Aut)
+Program Analysis and Optimizations
+CS 243 (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/jure-leskovec
+2022-23 Courses:
+Machine Learning with Graphs
+CS 224W (Win)
+Mining Massive Data Sets
+CS 246 (Spr)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Machine Learning with Graphs
+CS 224W (Win)
+Mining Massive Data Sets
+CS 246 (Spr)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/philip-levis
+2022-23 Courses:
+Independent Studies (20)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Independent Studies (20)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/percy-liang
+2022-23 Courses:
+Advances in Foundation Models
+CS 324 (Win)
+Artificial Intelligence: Principles and Techniques
+CS 221 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Advances in Foundation Models
+CS 324 (Win)
+Artificial Intelligence: Principles and Techniques
+CS 221 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/sara-achour
+2022-23 Courses:
+Software Engineering
+CS 295 (Win)
+Software Techniques for Emerging Hardware Platforms
+CS 349H, EE 292Y (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Software Engineering
+CS 295 (Win)
+Software Techniques for Emerging Hardware Platforms
+CS 349H, EE 292Y (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/alex-aiken
+2022-23 Courses:
+Mathematical Foundations of Computing
+CS 103 (Spr)
+Parallel Computing Research Project
+CS 315B (Aut)
+Programming Languages
+CS 242 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Mathematical Foundations of Computing
+CS 103 (Spr)
+Parallel Computing Research Project
+CS 315B (Aut)
+Programming Languages
+CS 242 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/nima-anari
+2022-23 Courses:
+Counting and Sampling
+CS 263 (Aut)
+Design and Analysis of Algorithms
+CS 161 (Win)
+Independent Studies (3)
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Counting and Sampling
+CS 263 (Aut)
+Design and Analysis of Algorithms
+CS 161 (Win)
+Independent Studies (3)
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/michael-bernstein
+2022-23 Courses:
+Computer Science Research
+CS 197 (Aut)
+Human-Computer Interaction Seminar
+CS 547 (Aut, Win, Spr)
+Human-Computer Interaction: Foundations and Frontiers
+CS 347 (Win)
+Social Computing
+CS 278, SOC 174, SOC 274 (Spr)
+Independent Studies (18)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Computer Science Research
+CS 197 (Aut)
+Human-Computer Interaction Seminar
+CS 547 (Aut, Win, Spr)
+Human-Computer Interaction: Foundations and Frontiers
+CS 347 (Win)
+Social Computing
+CS 278, SOC 174, SOC 274 (Spr)
+Independent Studies (18)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/jeannette-bohg
+2022-23 Courses:
+Computer Vision: From 3D Reconstruction to Recognition
+CS 231A (Win)
+Principles of Robot Autonomy I
+AA 174A, AA 274A, CS 237A, EE 160A, EE 260A (Aut)
+Principles of Robot Autonomy II
+AA 174B, AA 274B, CS 237B, EE 260B (Win)
+Independent Studies (13)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Computer Vision: From 3D Reconstruction to Recognition
+CS 231A (Win)
+Principles of Robot Autonomy I
+AA 174A, AA 274A, CS 237A, EE 160A, EE 260A (Aut)
+Principles of Robot Autonomy II
+AA 174B, AA 274B, CS 237B, EE 260B (Win)
+Independent Studies (13)
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/dan-boneh
+2022-23 Courses:
+Computer and Network Security
+CS 155 (Spr)
+Cryptocurrencies and blockchain technologies
+CS 251 (Aut)
+Introduction to Cryptography
+CS 255 (Win)
+Independent Studies (22)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Computer and Network Security
+CS 155 (Spr)
+Cryptocurrencies and blockchain technologies
+CS 251 (Aut)
+Introduction to Cryptography
+CS 255 (Win)
+Independent Studies (22)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/adam-bouland
+2022-23 Courses:
+Quantum Complexity Theory
+CS 359D (Spr)
+Quantum Computing
+CS 259Q (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Quantum Complexity Theory
+CS 359D (Spr)
+Quantum Computing
+CS 259Q (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/emma-brunskill
+2022-23 Courses:
+Advanced Survey of Reinforcement Learning
+CS 332 (Aut)
+Counterfactuals: The Science of What Ifs?
+CS 31N (Spr)
+Reinforcement Learning
+CS 234 (Win)
+Independent Studies (11)
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Advanced Survey of Reinforcement Learning
+CS 332 (Aut)
+Counterfactuals: The Science of What Ifs?
+CS 31N (Spr)
+Reinforcement Learning
+CS 234 (Win)
+Independent Studies (11)
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/zakir-durumeric
+2022-23 Courses:
+Computer and Network Security
+CS 155 (Spr)
+The Modern Internet
+CS 249I (Win)
+Topics in Computer and Network Security
+CS 356 (Aut)
+Independent Studies (12)
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Computer and Network Security
+CS 155 (Spr)
+The Modern Internet
+CS 249I (Win)
+Topics in Computer and Network Security
+CS 356 (Aut)
+Independent Studies (12)
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/dawson-engler
+2022-23 Courses:
+Advanced Operating System Lab: Accelerated (II)
+CS 340LX (Aut)
+Advanced Systems Laboratory, Accelerated
+CS 240LX (Spr)
+Advanced Topics in Operating Systems
+CS 240 (Spr)
+Operating systems design and implementation
+CS 140E (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Advanced Operating System Lab: Accelerated (II)
+CS 340LX (Aut)
+Advanced Systems Laboratory, Accelerated
+CS 240LX (Spr)
+Advanced Topics in Operating Systems
+CS 240 (Spr)
+Operating systems design and implementation
+CS 140E (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/stefano-ermon
+2022-23 Courses:
+Probabilistic Graphical Models: Principles and Techniques
+CS 228 (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Probabilistic Graphical Models: Principles and Techniques
+CS 228 (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/kayvon-fatahalian
+2022-23 Courses:
+Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS 248A (Win)
+Parallel Computing
+CS 149 (Aut)
+Visual Computing Systems
+CS 348K (Spr)
+Independent Studies (11)
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Computer Graphics: Rendering, Geometry, and Image Manipulation
+CS 248A (Win)
+Parallel Computing
+CS 149 (Aut)
+Visual Computing Systems
+CS 348K (Spr)
+Independent Studies (11)
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+2021-22 Courses
+Computer Graphics: Image Synthesis Techniques
+CS 348B (Spr)
+Interactive Computer Graphics
+CS 248 (Win)
+Parallel Computing
+CS 149 (Aut)
+Visual Computing Systems
+CS 348K (Spr)
+2020-21 Courses
+Interactive Computer Graphics
+
+URL: https://www.cs.stanford.edu/people/ron-fedkiw
+2022-23 Courses:
+Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS 205L (Win)
+Introduction to Computer Graphics and Imaging
+CS 148 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Continuous Mathematical Methods with an Emphasis on Machine Learning
+CS 205L (Win)
+Introduction to Computer Graphics and Imaging
+CS 148 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/chelsea-finn
+2022-23 Courses:
+Deep Multi-task and Meta Learning
+CS 330 (Aut)
+Deep Reinforcement Learning
+CS 224R (Spr)
+Independent Studies (17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Deep Multi-task and Meta Learning
+CS 330 (Aut)
+Deep Reinforcement Learning
+CS 224R (Spr)
+Independent Studies (17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/emily-fox
+2022-23 Courses:
+Introduction to Time Series Analysis
+STATS 207, STATS 307 (Aut)
+Modern Applied Statistics: Learning II
+STATS 315B (Spr)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Introduction to Time Series Analysis
+STATS 207, STATS 307 (Aut)
+Modern Applied Statistics: Learning II
+STATS 315B (Spr)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/michael-genesereth
+2022-23 Courses:
+Computational Logic
+CS 157 (Aut)
+General Game Playing
+CS 227B (Spr)
+Logic Programming
+CS 151 (Spr)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Computational Logic
+CS 157 (Aut)
+General Game Playing
+CS 227B (Spr)
+Logic Programming
+CS 151 (Spr)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/noah-goodman
+2022-23 Courses:
+Minds and Machines
+CS 24, LINGUIST 35, PHIL 99, PSYCH 35, SYMSYS 1, SYMSYS 200 (Win)
+Practicum in Teaching SymSys 1
+SYMSYS 197 (Win)
+Probabilistic models of cognition: Reasoning and Learning
+CS 428A, PSYCH 220A (Spr)
+Psychology of the Climate Crisis
+PSYCH 278 (Spr)
+Independent Studies (17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Minds and Machines
+CS 24, LINGUIST 35, PHIL 99, PSYCH 35, SYMSYS 1, SYMSYS 200 (Win)
+Practicum in Teaching SymSys 1
+SYMSYS 197 (Win)
+Probabilistic models of cognition: Reasoning and Learning
+CS 428A, PSYCH 220A (Spr)
+Psychology of the Climate Crisis
+PSYCH 278 (Spr)
+Independent Studies (17)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/carlos-guestrin
+2022-23 Courses:
+Ethics of Artificial Intelligence
+CS 281 (Spr)
+Machine Learning
+CS 229, STATS 229 (Aut)
+Independent Studies (6)
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Ethics of Artificial Intelligence
+CS 281 (Spr)
+Machine Learning
+CS 229, STATS 229 (Aut)
+Independent Studies (6)
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/tatsunori-hashimoto
+2022-23 Courses:
+Advances in Foundation Models
+CS 324 (Win)
+Machine Learning Under Distributional Shifts
+CS 329D (Spr)
+Independent Studies (6)
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Advances in Foundation Models
+CS 324 (Win)
+Machine Learning Under Distributional Shifts
+CS 329D (Spr)
+Independent Studies (6)
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/john-hennessy
+2022-23 Courses:
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/mark-horowitz
+2022-23 Courses:
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/oussama-khatib
+2022-23 Courses:
+Advanced Robotic Manipulation
+CS 327A (Spr)
+Experimental Robotics
+CS 225A (Spr)
+Introduction to Robotics
+CS 223A, ME 320 (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+Advanced Robotic Manipulation
+CS 327A (Spr)
+Experimental Robotics
+CS 225A (Spr)
+Introduction to Robotics
+CS 223A, ME 320 (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/fredrik-kjoelstad
+2022-23 Courses:
+Compilers
+CS 143 (Spr)
+Domain-Specific Programming Models and Compilers
+CS 343D (Win)
+Independent Studies (8)
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Compilers
+CS 143 (Spr)
+Domain-Specific Programming Models and Compilers
+CS 343D (Win)
+Independent Studies (8)
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/sanmi-koyejo
+2022-23 Courses:
+Artificial Intelligence: Principles and Techniques
+CS 221 (Spr)
+Independent Studies (14)
+
+2022-23 Courses Content:
+Artificial Intelligence: Principles and Techniques
+CS 221 (Spr)
+Independent Studies (14)
+
+URL: https://www.cs.stanford.edu/people/christos-kozyrakis
+2022-23 Courses:
+An Intro to Making: What is EE
+ENGR 40M (Spr)
+Cloud Computing Technology
+CS 349D (Spr)
+Colloquium on Computer Systems
+EE 380 (Win, Spr)
+Digital Systems Architecture
+EE 180 (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+Prior Year Courses:
+Prior Year Courses
+
+2022-23 Courses Content:
+An Intro to Making: What is EE
+ENGR 40M (Spr)
+Cloud Computing Technology
+CS 349D (Spr)
+Colloquium on Computer Systems
+EE 380 (Win, Spr)
+Digital Systems Architecture
+EE 180 (Win)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/monica-lam
+2022-23 Courses:
+Conversational Virtual Assistants with Deep Learning
+CS 224V (Aut)
+Program Analysis and Optimizations
+CS 243 (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Conversational Virtual Assistants with Deep Learning
+CS 224V (Aut)
+Program Analysis and Optimizations
+CS 243 (Win)
+Independent Studies (14)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/jure-leskovec
+2022-23 Courses:
+Machine Learning with Graphs
+CS 224W (Win)
+Mining Massive Data Sets
+CS 246 (Spr)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Machine Learning with Graphs
+CS 224W (Win)
+Mining Massive Data Sets
+CS 246 (Spr)
+Independent Studies (19)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/philip-levis
+2022-23 Courses:
+Independent Studies (20)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Independent Studies (20)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+URL: https://www.cs.stanford.edu/people/percy-liang
+2022-23 Courses:
+Advances in Foundation Models
+CS 324 (Win)
+Artificial Intelligence: Principles and Techniques
+CS 221 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
+2022-23 Courses Content:
+Advances in Foundation Models
+CS 324 (Win)
+Artificial Intelligence: Principles and Techniques
+CS 221 (Aut)
+Independent Studies (15)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prior Year Courses
+
